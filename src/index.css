@@ -19,6 +19,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 
 body {
+  background-color: #dbd9d9;
   display: flex;
   justify-content: center;
   margin: 0;
